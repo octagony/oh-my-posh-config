@@ -13,8 +13,10 @@ Set-PSReadLineOption -PredictionViewStyle ListView
 Set-Alias ll ls
 Set-Alias g git
 Set-Alias grep findstr
+Set-Alias nn nano
 Set-Alias tig 'C:\Program Files\Git\usr\bin\tig.exe'
 Set-Alias less 'C:\Program Files\Git\usr\bin\less.exe'
+
 
 #Utilites
 function which($command){
