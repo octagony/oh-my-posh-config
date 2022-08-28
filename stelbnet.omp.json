@@ -93,13 +93,13 @@
       "segments": [
         {
           "type": "text",
-          "foreground": "#757575",
+          "foreground": "#ffffff",
           "style": "plain",
           "template": "\u2514"
         },
         {
           "type": "text",
-          "foreground": "#757575",
+          "foreground": "#ffffff",
           "style": "plain",
           "template": ">"
         }
